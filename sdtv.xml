@@ -17,22 +17,22 @@
   </channel>
 
   <!-- PROGRAMS -->
-  <programme start="20260423050000 +0800" stop="20260423090000 +0800" channel="sdtvph">
+  <programme start="20260423050000+0800" stop="20260423090000+0800" channel="sdtvph">
     <title>Bukas May Pangarap</title>
     <desc>Drama series</desc>
   </programme>
 
-  <programme start="20260423090000 +0800" stop="20260423100000 +0800" channel="sdtvph">
+  <programme start="20260423090000+0800" stop="20260423100000+0800" channel="sdtvph">
     <title>Dear Diary</title>
     <desc>Drama</desc>
   </programme>
 
-  <programme start="20260423060000 +0800" stop="20260423080000 +0800" channel="goldentv">
+  <programme start="20260423060000+0800" stop="20260423080000+0800" channel="goldentv">
     <title>Morning Show</title>
     <desc>News & Talk</desc>
   </programme>
 
-  <programme start="20260423080000 +0800" stop="20260423100000 +0800" channel="startv">
+  <programme start="20260423080000+0800" stop="20260423100000+0800" channel="startv">
     <title>Movie Block</title>
     <desc>Entertainment</desc>
   </programme>
